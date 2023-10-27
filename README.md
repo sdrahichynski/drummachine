@@ -1,2 +1,2 @@
 # drummachine from wesboss js30 course :)
-🤘 https://grayd77.github.io/drummachine/build/ 🤘
+🤘 https://sdrahichynski.github.io/drummachine/build/ 🤘
